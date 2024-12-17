@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BoomiGroovyTool">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/BoomiGroovyTool.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
